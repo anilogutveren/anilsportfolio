@@ -1,0 +1,4 @@
+.idea/
+
+# Copilot / MCP local configuration (machine-specific; do not commit)
+**/mcp.json
